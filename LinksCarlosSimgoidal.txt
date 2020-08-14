@@ -3,7 +3,11 @@ https://github.com/carlosfab
 https://sigmoidal.ai/ blog
 https://www.edx.org/course/introduction-to-computer-science-and-programming-7 - curso MIT de ciencida da comuptacao
 https://www.edx.org/course/cs50s-introduction-to-computer-science
-​https://scratch.mit.edu/ programacao para crianças
+​https://scratch.mit.edu/ -  programacao para crianças
 https://colab.research.google.com/drive/1I-vEOFRGNpiGtyOC6Puefc8RMbGoVC3- aula de pandas
 https://colab.research.google.com/drive/1IqlYg-g4DIPCgbLPUFbcWbhB2Ol5vGc6 estatistica com panda
 https://colab.research.google.com/drive/1CKIhumQSPILB97u5Fc4JM1ld4bUxOhxm - introdução ao panda
+
+https://www.vooo.pro/insights/biblioteca-seaborn-com-o-matplotlib/ -  O que e seaborn
+https://seaborn.pydata.org/tutorial/distributions.html tipos de graficos seabor - Aqui Apresenta Histograma
+http://excript.com/python/tuplas-python.html - tuplas em python
